@@ -7,6 +7,11 @@
 A simple and responsive QR Code Generator Web Application built using HTML and CSS.
 This project allows users to generate QR codes instantly by entering text or a URL.
 
+
+## 🌐 Show Demo
+
+**[Click Here](https://mdrajatech03.github.io/Qr_Code-Generator/)**
+
 ---
 
 ## 🚀 Features
@@ -68,8 +73,9 @@ git clone https://github.com/yourusername/Qr_Code-Generator.git
 
 ## 👨‍💻 Author
 
-Developed by Md Raja
+Developed by **Md Raja**
 
+[GitHub](https://github.com/mdrajatech03)
 ---
 
 ## ⭐ Support
