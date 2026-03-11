@@ -58,7 +58,7 @@ git clone https://github.com/yourusername/Qr_Code-Generator.git
 
 (Add your project screenshot here)
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](screenshot.jpg)
 
 ---
 
